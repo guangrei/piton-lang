@@ -1,0 +1,32 @@
+# Standarisasi untuk bahasa pemrogaman piton (python berbahasa indonesia).
+# setiap frasa tidak harus persamaan antara bahasa inggris dan bahasa Indonesia
+# tetapi berdasarkan functionalnya sehingga mudah dipahami dan enak dibaca.
+# setiap frasa kase sensitif.
+# piton_only_syntax ['Deklarasi',]
+# -
+# class    : Kelas
+# import   : Impor
+# as       : Sebagai
+# from     : Dari
+# local    : lokal
+# continue : lanjut
+# break    : jeda
+# if       : jika
+# else     : lainnya
+# elif     : jikala
+# try      : coba
+# except   : kecualikan
+# is       : adalah
+# in       : pada
+# not      : bukan
+# for      : untuk
+# raise    : picu
+# return   : kembali
+# with     : dengan
+# while    : sementara
+# yield    : tangkap
+# finally  : kemudian
+# pass     : lewat
+# def      : fungsi
+# True     : benar
+# False    : salah
